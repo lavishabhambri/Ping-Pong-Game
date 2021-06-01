@@ -15,4 +15,4 @@ A Javascript based game. It is a smaller and easier version of this game.
 4. The score is counted from the start of every match.
 
 ## Here is the look - 
-<img src="screenshots/img.png" width = 80%>
+<img src="screenshot/img.png" width = 80%>
